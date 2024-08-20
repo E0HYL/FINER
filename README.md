@@ -1,10 +1,11 @@
 # FINER
 This repository contains the code and data associated with the CCS'23 publication. An extended version of the paper, including an appendix, can be found on [arXiv](https://arxiv.org/pdf/2308.05362.pdf).
+
 A sample output from our tool, which is valuable for malware analysis in achieving
 
 &#x2705; High Fidelity: locate malicious functionalities  correctly with high confidence;
 
-&#x2705; High Intelligibility: generate explanations at a high abstraction level, e.g., functions instead of opcode features
+&#x2705; High Intelligibility: generate explanations at a high abstraction level, e.g., functions instead of opcode features.
 
 <img src=functionLocation.png width=90% />
 
